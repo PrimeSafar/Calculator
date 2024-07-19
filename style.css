@@ -1,0 +1,183 @@
+body
+{
+    background-color:dimgray;
+}
+.head
+{
+    width: 100%;
+    height: 100px;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Body
+{
+    border: 1px solid white;
+   background-color: rgb(25, 24, 24);
+    width: 210px;
+    height: 350px;
+    border-radius: 20px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 20px;
+}
+.display
+{
+    margin-right: 10px;
+    color: white;
+    font-size: 45px;
+    text-align: right;
+    margin-bottom: 18px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.button
+{
+    background-color: rgb(54, 53, 53);
+    color: white;
+    width: 40px;
+    border-radius: 12px;
+    height: 40px;
+    text-align: center;
+    border: none;
+    font-size: 20px;
+    margin-bottom: 2px;
+    margin-left: 4px;
+
+}
+.button:hover
+{
+    background-color: rgb(39, 38, 38);
+}
+.button0
+{
+    background-color: rgb(54, 53, 53);
+    border-radius: 12px;
+    color: white;
+    width: 83px;
+    border: none;
+    text-align: center;
+    height: 40px;
+    font-size: 20px;
+    margin: 2px;
+    margin-left: 8px;
+}
+.button0:hover
+{
+    background-color: rgb(39, 38, 38);
+}
+.clear
+{
+    background-color: gainsboro;
+    color: black;
+    width: 88px;
+    border-radius: 12px;
+    height: 40px;
+    border: none;
+    font-size: 20px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+
+}
+.clear:hover
+{
+    background-color: darkgray;
+}
+
+#Mawew
+{
+    background-color: gainsboro;
+    color: black;
+    width: 40px;
+    border-radius: 12px;
+    height: 40px;
+    border: none;
+    font-size: 20px;
+    margin-bottom: 8px;
+    margin-right: 10px;
+}
+#Mawew:hover
+{
+    background-color: darkgray;
+}
+#divide
+{
+    background-color: purple;
+    color: white;
+    width: 40px;
+    border-radius: 12px;
+    height: 40px;
+    border: none;
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+#divide:hover
+{
+    background-color: darkorchid;
+}
+#multiply
+{
+    background-color: purple;
+    color: white;
+    width: 40px;
+    border-radius: 12px;
+    height: 40px;
+    border: none;
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+#multiply:hover
+{
+    background-color: darkorchid;
+}
+#add
+{
+    background-color: purple;
+    color: white;
+    width: 40px;
+    border-radius: 12px;
+    height: 40px;
+    border: none;
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+#add:hover
+{
+    background-color: darkorchid;
+}
+#subtract
+{
+    background-color: purple;
+    color: white;
+    width: 40px;
+    border-radius: 12px;
+    height: 40px;
+    border: none;
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+#subtract:hover
+{
+    background-color: darkorchid;
+}
+#equal
+{
+    background-color: purple;
+    color: white;
+    width: 40px;
+    border-radius: 12px;
+    height: 40px;
+    border: none;
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+#equal:hover
+{
+    background-color: darkorchid;
+}
+#Bu1
+{
+    margin-right: 10px;
+}
